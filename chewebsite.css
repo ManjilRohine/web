@@ -1,0 +1,52 @@
+#box {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#mg {
+    text-align: left;
+}
+
+div {
+    height: 300px;
+    width: 500px;
+    background-color: lightblue;
+    display: inline-block;
+}
+
+#box1 {
+    background-image: url("geo thermal.jpg.jpg");
+    background-size: cover;
+}
+
+#box2 {
+    background-image: url("benefits.jpg");
+    background-size: cover;
+}
+
+#box3 {
+    background-image: url("types.jpg");
+    background-size: cover;
+}
+
+#box4 {
+    background-image: url("types2.jpg");
+    background-size: cover;
+}
+
+#box5 {
+    background-image: url("application.webp");
+    background-size: cover;
+
+}
+
+footer {
+    text-align: center;
+}
